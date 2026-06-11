@@ -1,0 +1,6 @@
+{
+  "name": "Tank Simulator",
+  "description": "A top-down 2D tank battle game where players can move, aim, and shoot at enemy tanks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
